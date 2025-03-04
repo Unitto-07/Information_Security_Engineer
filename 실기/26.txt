@@ -1,0 +1,69 @@
+1. 리눅스 패스워드 설정
+	login.defs
+	PASS_MIN_LEN
+	8
+
+2. 무선 네트워크 CSMA/CA 프로토콜, 타임아웃 설정
+	RTS, CTS
+
+3. DNS
+	Recursive (Cache)
+	Authoritative
+
+4. HTTP request smuggling
+
+5. 침입 탐지 시스템
+	오탐(False Positive)
+	미탐(False Negative)
+
+6. XML
+	공통 검증
+	필터링
+	API
+
+7. APT(Advanced Persistent Threat)
+
+8. Slow Read Attack
+
+9. XSS 취약점 유형
+	Reflected XSS
+	Stored XSS
+	DOM based XSS
+
+10. 침입탐지 시스템
+	HIDS(호스트기반 IDS)
+	NIDS(네트워크기반 IDS)
+	
+11. 위험을 구성하는 요소
+	자산(Asset)
+	위협(Threat)
+	취약점(Vulnerability)
+
+12. 위험
+	위험관리
+	위험분석
+	위험 처리
+
+13. 윈도우 명령 처리기(cmd.exe), 사용자 계정 컨트롤(UAC)
+
+14. 개인정보 영향 평가 수행시 고려해야할 사항 5가지
+
+15. 시스템 로그
+	Promiscuous mode의 의미
+	해당 모드로 진입 시 수행 가능한 공격
+	공격에 대응할 수 있는 방법
+
+16. XSS 공격의 정의와 공격 기법 2가지
+
+실무형
+
+17. DB 접근 통제
+	DBA가 일반사용자 또는 원격 사용자에게 부여하면 안되는 권한 3가지
+	접근권한을 최소화할 수 있는 방법 4가지
+
+18. 취약점 점검
+	취약점 이름
+	시스템적으로 해당 취약점을 조치하는 방법
+	서비스적으로 해당 취약점을 조치하는 방법
+
+

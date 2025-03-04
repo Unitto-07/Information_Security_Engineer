@@ -1,0 +1,62 @@
+1. 개인정보영향평가 수행 안내서, 위험도 산정 공식
+	침해요인 발생 가능성
+	법적 준거성
+	2
+
+2. DB 암호화 기법
+	API
+	Plug-in
+	TDE (Transparent Data Encryption)
+	
+3. LAN 스위칭 기법
+	Cut through
+	Modified Cut through (Frgemnt Free)
+	Store and Forward
+	
+4. 무선랜 보안 표준, AES-CCMP 기반 암호화, EAP 인증
+	WPA2
+
+5. VLAN 주소 할당 방법
+	정적 VLAN(포트 주소 기반)
+	동적 VLAN(MAC 주소 기반)
+	
+6. robots.txt
+
+7. ISO 31000 위험평가 방법론, 위험평가 절차, 위험평가 단계명
+	위험식별
+	위험분석
+	위험평가
+	
+8. 정보보호 솔루션 이름
+	DLP(Data Loss Prevention)
+
+9. 유닉스, 숨겨진 프로세스를 찾기위해 참조하는 경로
+	proc
+
+10. 아파치 로그
+	no=101&item=book의 의미
+	http 상태코드
+	http://test.co.kr/main.php의 의미
+
+11. 개인정보 가명처리 기법
+	랜덤 라운딩
+
+12. Log4J
+
+13. 다음 조치가 필요한 이유
+	chmod -s [파일명]
+	find / -user root -type f \(-perm -4000 -o -perm -2000 \) lxargs ls -al
+
+14. rsh, rlogin, rexec 사용하는경우 /etc/hosts.equiv, $HOME/.rhosts 파일의 소유자, 권한, 파일 내 보안 설정 방법
+
+15. IPTables
+	IPTables의 3가지 Chain 설명
+	IPTables 룰 의미 설명
+
+16. SNMP 서비스 사용시 적용되어야 하는 보안설정 4가지
+
+실무형
+17. Solaris, Linux, AIX, HP-UX 서버에서 패스워드 최소길이 8자리 이상 설정 방법
+
+18. xinetd 서비스 환경설정 파일
+

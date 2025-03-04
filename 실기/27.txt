@@ -1,0 +1,50 @@
+1. DAC, MAC, RBAC
+
+2. RARP
+
+3. VLAN
+	포트, MAC, 네트워크 주소, 프로토콜
+	
+4. 전자금융거래법(CISO, Chief Information Security Officer)
+
+5. 리눅스 로그파일
+	utmp, wtmp, lastlog
+
+6. 포트 스캔
+	FIN scan, XMAS scan, Null scan
+	
+7. SQL Injection, XSS, 운영체제 명령어 삽입
+
+8. HTTP Method
+	OPTIONS
+
+9. 소프트웨어 패치 종류
+	핫픽스(Hot Fix), 업데이트(Update)
+
+10. SNMP(Simple Network Management Protocol)
+
+11. 위험 수용
+
+12. VLAN
+
+13. 복합접근법
+	위험분석 접근법 중 복합접근법의 개념, 장점, 단점 설명
+
+14. 정보통신망법 제45조 2항
+	1.2.1.정보보호 방침의 수립 및 이행
+	1.2.2.정보보호 실행 계획의 수립 및 이행
+
+15. 권한설정
+	-rwxr---x 설명
+
+16. 재해복구시스템 유형
+	미러사이트 정의
+	미러사이트의 장단점 각 2개씩 설명
+	RTO가 가장 오래 걸리는 방식은 무엇이며, 이유는 무엇인가
+
+실무형
+
+17. SQL Injection 에 취약한 코드, 최약점 해소한 코드
+	빈칸문제
+
+18. NTP서비스 취약점을 이용한 DDoS 공격 대응방안 4가지
